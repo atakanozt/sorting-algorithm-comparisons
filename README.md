@@ -57,10 +57,10 @@ python3 visualize.py
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Example Usage
-![Screenshot from 2023-05-11 23-07-03](https://github.com/atakanozt/sorting-algorithm-comparisons/assets/78659107/2e20c816-0fdd-424d-a0b5-77342f888ef3)
+![Screenshot from 2023-05-11 23-07-03](https://github.com/atakanozt/sorting-algorithm-comparisons/blob/main/Screenshot%20from%202023-05-11%2023-07-03.png)
 
 
-![Screenshot from 2023-05-11 23-07-13](https://github.com/atakanozt/sorting-algorithm-comparisons/assets/78659107/bdbdbefb-75aa-432f-8282-395595e9f9f8)
+![Screenshot from 2023-05-11 23-07-13](https://github.com/atakanozt/sorting-algorithm-comparisons/blob/main/Screenshot%20from%202023-05-11%2023-07-13.png)
 
 
 
